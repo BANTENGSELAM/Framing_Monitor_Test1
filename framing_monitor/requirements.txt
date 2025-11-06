@@ -1,0 +1,17 @@
+snscrape
+pandas
+matplotlib
+emoji
+regex
+streamlit
+torch
+transformers
+scikit-learn
+tweepy
+requests
+beautifulsoup4
+pandas
+instaloader
+TikTokApi
+feedparser
+
